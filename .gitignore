@@ -1,0 +1,5 @@
+bin/*
+sourced/*
+
+!sourced/luxury_functions.sh
+!sourced/encryption.sh
