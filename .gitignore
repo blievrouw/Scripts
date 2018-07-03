@@ -1,5 +1,8 @@
+# Ignore ...
 bin/*
 sourced/*
 
+# Except for ...
 !sourced/luxury_functions.sh
 !sourced/encryption.sh
+!bin/scihub.py
