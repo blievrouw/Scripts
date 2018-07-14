@@ -1,6 +1,8 @@
 # Ignore ...
 bin/*
 sourced/*
+startup/*
+tmp/*
 
 # Except for ...
 !sourced/luxury_functions.sh
