@@ -1,12 +1,4 @@
-##### Luxury functions #####
-
-function lah () {
-    ls -lah "$@"
-}
-
-function cs () {
-    cd "$@" && ls
-}
+##### Shortcuts #####
 
 # Open Google Chrome
 function chrome () {
@@ -23,4 +15,8 @@ function rstudio() {
 
 function excel() {
     open -a "Microsoft Excel" $1
+}
+
+function storm() {
+	open -a "Webstorm" $1
 }

@@ -2,9 +2,8 @@
 bin/*
 sourced/*
 startup/*
-tmp/*
 
 # Except for ...
-!sourced/luxury_functions.sh
+!sourced/shortcuts.sh
 !sourced/encryption.sh
 !bin/scihub.py
